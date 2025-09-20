@@ -1,0 +1,26 @@
+Terraform-VPC/
+├── Terraform-VPC/
+│   ├── modules/
+│   │   ├── alb/
+│   │   │   ├── main.tf
+│   │   │   ├── outputs.tf
+│   │   │   └── variables.tf
+│   │   ├── ec2/
+│   │   │   ├── data.tf
+│   │   │   ├── main.tf
+│   │   │   ├── outputs.tf
+│   │   │   └── variables.tf
+│   │   ├── sg/
+│   │   │   ├── main.tf
+│   │   │   ├── outputs.tf
+│   │   │   └── variables.tf
+│   │   ├── vpc/
+│   │       ├── data.tf
+│   │       ├── main.tf
+│   │       ├── outputs.tf
+│   │       └── variables.tf
+│   ├── main.tf
+│   ├── provider.tf
+│   ├── terraform.tfvars
+│   └── variables.tf
+└── README.md
