@@ -5,8 +5,7 @@
  ## Introduction 
  This GitHub project provides a comprehensive guide and a set of resources to create and manage infrastructure using Terraform and automate the deployment process using GitHub Actions. 
  
- Terraform is an open-source infrastructure as code (IaC) tool that allows you to define and provision infrastructure using a declarative configuration language. 
- 
+ Terraform is an open-source infrastructure as code (IaC) tool that allows you to define and provision infrastructure using a declarative configuration language.
  Whereas GitHub Actions is a powerful automation and CI/CD platform provided by GitHub.
 
  
